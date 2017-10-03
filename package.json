@@ -1,1 +1,15 @@
-
+{
+    "name": "Microservices",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "Sri",
+    "description": "a simple microservice for test",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {      
+    },
+    "dependencies": {
+    }
+}
